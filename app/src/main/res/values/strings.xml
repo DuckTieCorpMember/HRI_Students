@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HRI_Words</string>
+
+    <string-array name="categories">
+        <item>Cloth</item>
+        <item>Food</item>
+        <item>Animal</item>
+        <item>Plant</item>
+    </string-array>
+
+    <string-array name="Cloth">
+        <item>ClothA</item>
+        <item>ClothB</item>
+        <item>ClothC</item>
+        <item>ClothD</item>
+        <item>ClothE</item>
+    </string-array>
+
+    <string-array name="Food">
+        <item>FoodA</item>
+        <item>FoodB</item>
+        <item>FoodC</item>
+        <item>FoodD</item>
+        <item>FoodE</item>
+    </string-array>
+
+    <string-array name="Animal">
+        <item>AnimalA</item>
+        <item>AnimalB</item>
+        <item>AnimalC</item>
+        <item>AnimalD</item>
+        <item>AnimalE</item>
+    </string-array>
+
+    <string-array name="Plant">
+        <item>PlantA</item>
+        <item>PlantB</item>
+        <item>PlantC</item>
+        <item>PlantD</item>
+        <item>PlantE</item>
+    </string-array>
+
+</resources>
